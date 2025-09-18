@@ -1,2 +1,1 @@
-# liveworksheets_answers
-answers for liveworksheets
+pres cntrl+shift+c , choose console , allow pasting, past
